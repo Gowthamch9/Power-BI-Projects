@@ -50,10 +50,3 @@ This repository contains **interactive Power BI dashboards** built on different 
 - Data Transformation (Power Query)  
 - Visualization (maps, drill-throughs, KPIs, filters, custom visuals)  
 
----
-
-## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gowtham-eathamokkala)  
-- 📂 [GitHub](https://github.com/Gowthamch9)  
-- ✉️ gchaudary99@gmail.com  
-
